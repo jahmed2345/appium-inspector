@@ -77,6 +77,7 @@ any other command: `./Appium-Inspector-linux.AppImage`.
 | Platform                                    | Docs                                                                                  |
 | ------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [Sauce Labs](https://saucelabs.com)         | [Documentation](https://wiki.saucelabs.com/)                                          |
+| [TestGrid](https://testgrid.io)             | [Documentation](https://testgrid.io/)                                                 |
 | [HeadSpin](https://headspin.io)             | [Documentation](https://headspin.io/)                                                 |
 | [Browserstack](https://browserstack.com)    | [Documentation](https://www.browserstack.com/docs)                                    |
 | [Lambdatest](https://lambdatest.com)        | [Documentation](https://www.lambdatest.com/support/docs/appium-inspector-integration) |
